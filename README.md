@@ -3,9 +3,10 @@
 <!-- START_ACHIEVEMENTS -->
 
 ### Doctores
-- Designed the foundation of the Doctores platform, laying the groundwork for future development and ensuring a scalable architecture.
+- Designed and established the foundation for a robust Doctores platform, laying the groundwork for future development and scalability.
+- Ensured a secure starting point for the platform by implementing best practices in initial commit setup.
 ### arc-failure-atlas
-- Improved Security and Compliance by architecting a robust .gitignore file, removing internal artifacts from tracking, and enhancing data protection through careful exclusion of sensitive files.
-- Streamlined Infrastructure Setup and Validation Schemas to ensure seamless package restructuring and efficient service deployment, resulting in enhanced scalability and reduced technical debt.
+- Architected and implemented a scalable infrastructure setup, restructuring packages and validation schemas to ensure seamless workflow execution.
+- Improved security by removing internal n8n/python artifacts from tracking, streamlining data management and reducing potential vulnerabilities.
 
 <!-- END_ACHIEVEMENTS -->
