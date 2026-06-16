@@ -1,12 +1,42 @@
-# My Profile
+<h1 align="center">Hi there, I'm Roberto 👋</h1>
+<h3 align="center">Data & AI Engineer | Building scalable pipelines and intelligent automations</h3>
 
-<!-- START_ACHIEVEMENTS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=titorvc&label=Profile%20Views&color=0e75b6&style=flat" alt="titorvc" />
+</p>
 
-### Doctores
-- Designed and established the foundation for a robust Doctores platform, laying the groundwork for future development and scalability.
-- Ensured a secure starting point for the platform by implementing best practices in initial commit setup.
-### arc-failure-atlas
-- Architected and implemented a scalable infrastructure setup, restructuring packages and validation schemas to ensure seamless workflow execution.
-- Improved security by removing internal n8n/python artifacts from tracking, streamlining data management and reducing potential vulnerabilities.
+I'm focused on transforming complex data into robust, automated architectures. I specialize in Data Engineering, MLOps, and workflow automation.
 
-<!-- END_ACHIEVEMENTS -->
+* 🚀 Currently architecting data pipelines and AI-driven automation systems.
+* 🧠 Exploring advanced implementations with **dbt**, **Apache Airflow**, and **Parquet**.
+* ⚡ Constantly automating workflows with **n8n** and **Python**.
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=titorvc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titorvc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Recent Technical Achievements
+---
+
+### 📈 Weekly Development Activity
