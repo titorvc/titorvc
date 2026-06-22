@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Roberto 👋</h1>
 <h3 align="center">Data & AI Engineer | Building scalable pipelines and intelligent automations</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=titorvc&label=Profile%20Views&color=0e75b6&style=flat" alt="titorvc" />
-</p>
-
 I'm focused on transforming complex data into robust, automated architectures. I specialize in Data Engineering, MLOps, and workflow automation.
 
 * 🚀 Currently architecting data pipelines and AI-driven automation systems.
@@ -27,38 +23,21 @@ I'm focused on transforming complex data into robust, automated architectures. I
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Professional Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=titorvc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titorvc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=titorvc&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
-### 🏙️ 3D Contribution City & 🐍 Snake
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Calendar" width="100%" />
-</p>
-<p align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
-</p>
-
 ---
 
 ### 🚀 Recent Technical Achievements
+<!-- START_ACHIEVEMENTS -->
+<!-- END_ACHIEVEMENTS -->
+
 ---
 
 ### 📈 Weekly Development Activity
-
-<!-- START_ACHIEVEMENTS -->
-
-### job_hunter_ai
-- Error synthesizing job_hunter_ai: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 111] Connection refused"))
-
-<!-- END_ACHIEVEMENTS -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
