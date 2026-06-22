@@ -40,4 +40,10 @@ I'm focused on transforming complex data into robust, automated architectures. I
 
 ### 📈 Weekly Development Activity
 <!--START_SECTION:waka-->
+
+```txt
+Other      2 hrs 23 mins         ███████████████████████▓░   95.17 %
+Markdown   7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+```
+
 <!--END_SECTION:waka-->
