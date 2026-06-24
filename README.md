@@ -47,8 +47,7 @@ I'm focused on transforming complex data into robust, automated architectures. I
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 23 mins         ███████████████████████▓░   95.17 %
-Markdown   7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Other   2 hrs 27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
