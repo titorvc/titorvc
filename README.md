@@ -32,6 +32,15 @@ I'm focused on transforming complex data into robust, automated architectures. I
 
 ---
 
+### 🔮 Data Streams & AI Telemetry (3D Visualizations)
+
+<p align="center">
+  <img src="dist_local/ai_cognitive_filter.gif" width="49%" alt="AI Cognitive Filter" />
+  <img src="dist_local/n8n_telemetry.gif" width="49%" alt="n8n Telemetry" />
+</p>
+
+---
+
 ### 🚀 Recent Technical Achievements
 <!-- START_ACHIEVEMENTS -->
 
