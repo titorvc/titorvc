@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Roberto 👋</h1>
+<h1 align="center">Hi there, I'm Roberto </h1>
 <h3 align="center">Data & AI Engineer | Building scalable pipelines and intelligent automations</h3>
 
 I'm a **Data Engineer** passionate about bridging the gap between traditional data engineering pipelines and state-of-the-art **Agentic AI** architectures. I design reproducible data ecosystems, OLTP/OLAP dual architectures, and local/cloud automation structures.
