@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Roberto 👋</h1>
 <h3 align="center">Data & AI Engineer | Building scalable pipelines and intelligent automations</h3>
 
-I'm focused on transforming complex data into robust, automated architectures. I specialize in Data Engineering, MLOps, and workflow automation.
+I'm a **Data Engineer** passionate about bridging the gap between traditional data engineering pipelines and state-of-the-art **Agentic AI** architectures. I design reproducible data ecosystems, OLTP/OLAP dual architectures, and local/cloud automation structures.
 
-* 🚀 Currently architecting data pipelines and AI-driven automation systems.
-* 🧠 Exploring advanced implementations with **dbt**, **Apache Airflow**, and **Parquet**.
-* ⚡ Constantly automating workflows with **n8n** and **Python**.
+* 🤖 **Agentic AI & RAG**: Designing local LLM reasoning workflows (Llama 3.2 via Ollama), semantic searches (`pgvector`), and programmatic scraping.
+* 🚀 **Data Pipelines**: Designing robust ELT/ETL architectures with **Apache Airflow**, **dbt**, **PostgreSQL**, and **Google BigQuery**.
+* ⚡ **Automation & Streaming**: Ingesting real-time event streams with **Apache Kafka** and building automation pipelines with **n8n** and custom Python microservices.
 
 ---
 
@@ -14,10 +14,13 @@ I'm focused on transforming complex data into robust, automated architectures. I
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
-  <img src="https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
 </p>
 
