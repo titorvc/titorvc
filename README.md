@@ -38,8 +38,9 @@ I am a Data Engineer focused on building robust data pipelines and integrating A
 ### Data Streams & Visualizations
 
 <p align="center">
-  <img src="dist_local/ai_cognitive_filter.gif" width="49%" alt="AI Cognitive Filter" />
-  <img src="dist_local/n8n_telemetry.gif" width="49%" alt="n8n Telemetry" />
+  <img src="dist_local/ai_cognitive_filter.gif" width="32%" alt="AI Cognitive Filter" />
+  <img src="dist_local/n8n_telemetry.gif" width="32%" alt="n8n Telemetry" />
+  <img src="dist_local/agency_pipeline.gif" width="32%" alt="Agency Pipeline" />
 </p>
 
 ---
