@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm Roberto </h1>
-<h3 align="center">Data & AI Engineer | Building scalable pipelines and intelligent automations</h3>
+<h1 align="center">Roberto</h1>
+<h3 align="center">Data & AI Engineer</h3>
 
-I'm a **Data Engineer** passionate about bridging the gap between traditional data engineering pipelines and state-of-the-art **Agentic AI** architectures. I design reproducible data ecosystems, OLTP/OLAP dual architectures, and local/cloud automation structures.
+I am a Data Engineer focused on building robust data pipelines and integrating AI solutions into production environments. I work on designing and maintaining data architectures that connect traditional ETL/ELT processes with modern automation.
 
-* 🤖 **Agentic AI & RAG**: Designing local LLM reasoning workflows (Llama 3.2 via Ollama), semantic searches (`pgvector`), and programmatic scraping.
-* 🚀 **Data Pipelines**: Designing robust ELT/ETL architectures with **Apache Airflow**, **dbt**, **PostgreSQL**, and **Google BigQuery**.
-* ⚡ **Automation & Streaming**: Ingesting real-time event streams with **Apache Kafka** and building automation pipelines with **n8n** and custom Python microservices.
+* **Data Engineering:** Building and maintaining scalable data pipelines using Apache Airflow, dbt, PostgreSQL, and Google BigQuery.
+* **AI Integration:** Implementing local LLM workflows (Ollama), semantic search (pgvector), and data scraping.
+* **Automation:** Streamlining operations with Apache Kafka, n8n, and Python microservices.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -26,7 +26,7 @@ I'm a **Data Engineer** passionate about bridging the gap between traditional da
 
 ---
 
-### 📊 Professional Metrics
+### Professional Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=titorvc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -35,7 +35,7 @@ I'm a **Data Engineer** passionate about bridging the gap between traditional da
 
 ---
 
-### 🔮 Data Streams & AI Telemetry (3D Visualizations)
+### Data Streams & Visualizations
 
 <p align="center">
   <img src="dist_local/ai_cognitive_filter.gif" width="49%" alt="AI Cognitive Filter" />
@@ -44,18 +44,18 @@ I'm a **Data Engineer** passionate about bridging the gap between traditional da
 
 ---
 
-### 🚀 Recent Technical Achievements
+### Recent Technical Achievements
 <!-- START_ACHIEVEMENTS -->
 
 ### job_hunter_ai
-- Implemented robust .gitignore configuration to ensure secure project structure and prevent sensitive data exposure, resulting in a cleaner and more organized codebase.
-- Streamlined project setup by optimizing file management, reducing overall file count by 14 and minimizing potential security risks.
+- Configured .gitignore to secure project structure and prevent sensitive data exposure.
+- Streamlined project setup and optimized file management.
 
 <!-- END_ACHIEVEMENTS -->
 
 ---
 
-### 📈 Weekly Development Activity
+### Weekly Development Activity
 <!--START_SECTION:waka-->
 
 ```txt
